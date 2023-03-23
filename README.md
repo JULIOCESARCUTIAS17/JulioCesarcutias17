@@ -2,7 +2,7 @@ Olá sou Julio  Cesar
 
 Atualmente estou trabalhando  de Auxiliar Administrativo
 
-🌱Atualmente estou cursando Sistema de Informações na universidade UNIP
+🌱Atualmente estou cursando Sistemas de Informção na universidade UNIP
 
 🎓Atual:7º Semestre
 
