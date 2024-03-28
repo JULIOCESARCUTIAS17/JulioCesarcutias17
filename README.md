@@ -1,12 +1,12 @@
 Olá sou Julio  Cesar
 
-Atualmente estou trabalhando  de Auxiliar Administrativo
+Atualmente estou trabalhando de IT HELPDESK no setor mobile
 
-🌱Atualmente estou cursando Sistemas de Informção na universidade UNIP
+🌱Sou formado em  Sistemas de Informção na universidade UNIP
 
-🎓Atual:7º Semestre
+🎓Atual: Bacharelado em Sistemas de Informção
 
-💻A linguagem que estou cursando no momento é: Python
+💻A linguagem que estou cursando no momento é: Python e Power BI
 
 📫Entre em contato comigo no e-mail: juliocesar.cutiaselias13@gmail.com
 
